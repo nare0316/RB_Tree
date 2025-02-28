@@ -1,4 +1,4 @@
-⚫️ 🔴 Red-Black Tree (RB-Tree) Implementation in Python
+🔴 ⚫️ Red-Black Tree (RB-Tree) Implementation in Python
 
 📎 Key Features:
 - Insert: Adds a new node to the tree while ensuring it remains balanced.
